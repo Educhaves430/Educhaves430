@@ -7,13 +7,30 @@ Estudante do 3º ano de Licenciatura em Engenharia Informática na Universidade 
 
 ## Competências:
 
-#### Linguagens: C, C++, C#
+#### Linguagens:
 
-#### Frameworks: .NET
+<div style="display: inline_block">
+  <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+  <img align="center" alt="C++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="C#" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+  <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+</div>
 
-#### IDEs/Editores: Visual Studio, Visual Studio Code
+#### Frameworks:
 
-#### Database: Microssoft SQL Server
+<div style="display: inline_block">
+  <img align="center" alt=".NET" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Anaconda" height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" />
+</div>
+
+#### IDEs/Editores:
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=black&labelColor=green) 
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson) 
 
 ## Estatísticas Pessoais:
 
