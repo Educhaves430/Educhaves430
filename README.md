@@ -27,8 +27,8 @@ Estudante do 3º ano de Licenciatura em Engenharia Informática na Universidade 
 #### IDEs/Editores:
 
 <div style="display: inline_block">
-  <img align="center" alt="Visual Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" />
-  <img align="center" alt="Visual Studio Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Visual Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Visual Studio Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 </div>
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=black&labelColor=green) 
