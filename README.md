@@ -1,6 +1,10 @@
 ## Sobre Mim:
 
-Estudante do 3º ano de Licenciatura em Engenharia Informática na Universidade de Trás-os-Montes e Alto Douro.
+I recently finished my college degree in computer engineering at UTAD (Universidade de Trás-os-Montes e Alto Douro). 
+
+At the moment I am working as a Tech Analyst at Deloitte Portugal where I am part of the salesforce team.
+
+Currently I am also a Deloitte Champion. And as a champion I will represent Deloitte at my college sharing the amazing experience I had as a summer intern at Deloitte. 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Educhaves430)](https://github.com/Educhaves430)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-chaves-6278ba198/)](https://www.linkedin.com/in/eduardo-chaves-6278ba198/)
