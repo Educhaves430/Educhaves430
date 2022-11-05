@@ -1,5 +1,7 @@
 ## Sobre Mim:
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tech+Analyst;Always%20learning%20new%20things)](https://git.io/typing-svg)
+
 I recently finished my college degree in computer engineering at UTAD (Universidade de Trás-os-Montes e Alto Douro). 
 
 At the moment I am working as a Tech Analyst at Deloitte Portugal where I am part of the salesforce team.
