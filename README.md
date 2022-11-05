@@ -1,6 +1,6 @@
 ## Sobre Mim:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tech+Analyst;Always%20learning%20new%20things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tech+Analyst;Salesforce;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
 I recently finished my college degree in computer engineering at UTAD (Universidade de Trás-os-Montes e Alto Douro). 
 
